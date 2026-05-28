@@ -1,1 +1,26 @@
+# MockUp Aplikasi LaporIn 
+- MockUp aplikasi ini dibuat meggunakan tools figma
+- Untuk mockup aplikasi yang dibuat ada 2 versi tampilan yaitu (mobile & dekstop)
 
+berikut ini kami cantumkan link untuk mengakses & melihat langsung gambar mockup di figmanya: 
+```bash
+https://www.figma.com/design/d1PFHHJOUg5tr5YyvW5xG7/Mockup-Aplikasi-LaporIn?node-id=16-6&t=zCLV8bbqiZmFHcVr-1
+```
+
+## Cara Mengakses Mockup Mobile dan Dekstop di Figma:
+- untuk melihat versi mobile buka fitur pages lalu klik "Versi Mobile"
+- untuk melihat versi dekstop buka fitur pages lalu klik "Versi Dekstop"
+
+## Layout Frame Yang Digunakan di Figma:
+- Versi Mobile menggunakan ukuran dimensi: W: 412 dan H: 917
+- Versi Dekstop menggunkana ukuran dimensi: W: 1280 dan H:832
+  
+## Saran Rekomensasi Saat Menjalankan Tes Prototype:
+- untuk mobile: ubah setingan prototype menjadi "Android Compact 412x912"
+- untuk dekstop: ubah setingan prototype menjadi "Mackbook Air 1280x832"
+
+## Catatan
+Jika anda tidak mau melihat langsung di figma, kami telah mencantumkan gambar-gambar mockup aplikasi LaporIn di dalam file PDF yang telah kami cantumkan di link Google Drive berikut ini:
+```bash
+https://drive.google.com/drive/folders/1wsHtRdcWzY9dvSvgiKpksSMgJkuQhhb2?usp=sharing
+```
